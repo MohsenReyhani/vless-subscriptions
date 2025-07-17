@@ -1,5 +1,3 @@
-vless://6a3e9e9d-5c2e-481a-887e-f8d7acf5ef75@104.31.16.104:80?security=none&type=ws&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasproject.name.ng.&path=/#t.me/entryNET/config=1837915119087908
-vless://5f1dbabe-be61-42fa-cbde-dc84ce43c638@shamo.shnovps.click:55434?mode=gun&security=none&encryption=none&type=grpc&serviceName=ExO.iR#t.me/entryNET/config=1837915558928898
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.89:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#t.me/entryNET/config=1837915625902300
 vless://6865584d-f1ed-4791-9f64-f9544bc14391@104.21.80.1:443?security=tls&sni=join.kiava.fun&type=ws&host=join.kiava.fun&fp=chrome&alpn=h2#t.me/entryNET/config=1837915684556455
 ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@85.159.210.34:27047#t.me/entryNET/config=1837916128141801
@@ -18,3 +16,5 @@ trojan://telegram-id-privatevpns@51.20.215.141:22222?allowInsecure=0&sni=trojan.
 vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.237.147.79:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#t.me/entryNET/config=1837917697314292
 vless://166ddff3-29b8-48df-87b3-3542c426bf95@p.faraghost.sbs:28338?mode=gun&security=reality&encryption=none&pbk=iNpnCGDf4E4ZR-_STyfA3Unh-zK8c2gJbtshJ_QZsnY&fp=randomized&spx=%2F&type=grpc&serviceName=t.me/entryNET&sni=www.cloudflare.com&sid=c3a7aaac59#t.me/entryNET/config=1837917950124009
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1837918019330397
+vless://37459a31-9dbe-43bd-bf91-4905febb3819@151.101.2.228:80?security=none&type=ws&host=mmd.ir#t.me/entryNET/config=1837918142591435
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTo5OTo3ODpENDo5OTozMTpDMzpBQzowQjo2QzoxMTo2RDo1RjoxQjpBODpBNTo3RjowODowODoyODowMjozQzpDODo5NToyNjo2Mzo5QTpCMDozQjoxODo2MjozNQ%3D%3D@fr.fastsoonlink.com:40034#t.me/entryNET/config=1837918326467568
