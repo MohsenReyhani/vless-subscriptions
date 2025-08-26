@@ -1,7 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.145.94.80:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=%2FaIa8EGozH9v6A091%3Fed%3D2560#t.me/entryNET/config=1841467587434757
-vless://21e6d7f3-08bd-4dbc-abf5-8012d9838af5@188.114.98.112:80?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=none&encryption=none&host=JOIN---ELiV2-RAY.cloudns.pro.&type=ws#t.me/entryNET/config=1841467652177643
-vless://9e3915d4-e76b-40bf-a64c-0a7060f71cb5@85.133.132.30:55903?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1841468532119594
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@141.101.123.218:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#t.me/entryNET/config=1841470229792367
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.179:2053?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#t.me/entryNET/config=1841471302089124
 vless://fc49bf42-13be-4f45-9731-35eb04ecab10@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#t.me/entryNET/config=1841471742703147
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.131.21:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1841474257048462
@@ -15,6 +11,10 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.246.137:2053?security=tls&sn
 trojan://telegram-id-directvpn@3.147.17.142:22222?allowInsecure=0#t.me/entryNET/config=1841478976794109
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?note=---Telegram---%40Raiv2mmr---Raiv2mmrRaiv2mmr&security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#t.me/entryNET/config=1841480799684830
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560#t.me/entryNET/config=1841481498823608
+vmess://eyJhZGQiOiI2NC4yMjcuNDUuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWUwMmJjMDEtNDJhNy00NjA5LWIyMGEtNGQ5M2ZlZWE2NWM2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjAwODYiLCJwcyI6InQubWVcL2VudHJ5TkVUIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9/config=1841482057381678
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?sni=store.steampowered.com&sid=f5&security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&flow=xtls-rprx-vision#t.me/entryNET/config=1841485519389405
+ss://bm9uZTpiYmFhYWNjLWJhY2EtYWFjYi1jZGJhLWNhYWJjYWFiY2JiYw==@127.0.0.1:8080#t.me/entryNET/config=1841486401740407
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.64.130.67:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&fp=chrome#t.me/entryNET/config=1841486462514019
 vless://d7ab2c08-51f2-4df4-95c0-ce7139877881@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%…
 vless://26e4ec0d-1be2-47c9-8a47-638af889b421@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
 vless://26e4ec0d-1be2-47c9-8a47-638af889b421@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%…
