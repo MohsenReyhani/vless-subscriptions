@@ -1,8 +1,3 @@
-trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#t.me/entryNET/config=1842207653699299
-trojan://bpb-trojan@173.245.59.182:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=/tr?ed#t.me/entryNET/config=1842207714863795
-trojan://auto@172.64.35.176:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#t.me/entryNET/config=1842207778210645
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=%2F#t.me/entryNET/config=1842207904130288
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.112.154:808#t.me/entryNET/config=1842209286561990
 trojan://telegram-id-privatevpns@13.39.55.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842210167599186
 vless://7d5d4b4f-99b4-45ef-a8d7-24e805745b9e@172.67.196.23:443?type=ws&host=cdn.romil-ltd.co.uk&path=/Ki5km8BGWTxThVEAefvkMj&security=tls&fp=chrome&sni=cdn.romil-ltd.co.uk&alpn=http/1.1#t.me/entryNET/config=1842210546516307
 trojan://slch2024@188.164.158.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842210675788459
@@ -16,6 +11,11 @@ vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none
 ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@139.224.111.72:40503#t.me/entryNET/config=1842211428454012
 vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F&fp=chrome#t.me/entryNET/config=1842211489589583
 trojan://cbaabca-acab-aabc-dacb-accbbcacabba@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1842211553653042
+vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?security=&type=ws&path=/&encryption=none#t.me/entryNET/config=1842212182796074
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.223.15:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842212998020684
+trojan://trojan@162.159.0.0:443?encryption=none&security=tls&sni=azadnet-cqb.pages.dev&fp=random&type=ws&host=azadnet-cqb.pages.dev&path=%2F%3Fed%3D2560#t.me/entryNET/config=1842215076913821
+vless://fc084c60-4aba-4108-8daf-139a345c4c6f@151.101.2.133:443?security=tls&sni=live.989bull.com&type=ws&host=Golestanvpn.com&path=CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#t.me/entryNET/config=1842215265737553
+ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@139.224.236.220:40504#t.me/entryNET/config=1842215328475551
 vless://a67a64f5-e54e-4abe-8639-ad999d794a7f@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
 vless://b71d62ce-af15-4563-b696-3f971101ebfc@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
 vless://fc45ede4-8ef3-49f9-bfda-d976ca8fbe09@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
