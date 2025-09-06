@@ -1,7 +1,3 @@
-vless://0ec4fce4-efe8-4db3-8665-2a74b3c4cbf4@gozarfreebot.niniweblog.org:2087?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=0H5WR9mnrd60mwjvw66EEeH5Ay1mx7OEkm59nWF46VI&sid=591e2a3f25c6ed9c&spx=%2F#t.me/entryNET/config=1842472270888577
-trojan://bf7e1009-1574-44f7-86df-6cbecd338477@pardazeshvpn-tg18.pages.dev:443?security=tls&type=ws&sni=pardazeshvpn-tg18.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=pardazeshvpn-tg18.pages.dev#t.me/entryNET/config=1842472333008449
-ss://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.73.111:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&type=ws&sni=freedom-1rj.pages.dev#t.me/entryNET/config=1842472399749073
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.95:5000#t.me/entryNET/config=1842476108067333
 ss://4f073a8d-28e0-4dc3-94e8-57bb333cbe91@ayna.com:443?path=%2FVLESS%2Ffr-freevmess.privateip.net&security=tls&alpn=http%2F1.1&encryption=none&host=yelan.thelastronin.cloudns.org&fp=randomized&type=ws&sni=yelt88rxdan.thelastronin.cloudns.org#t.me/entryNET/config=1842476174490077
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOYlFOcW5nYUl3Uzc@83.217.9.101:443#t.me/entryNET/config=1842477743594913
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA%3D@5.188.36.93:31348#t.me/entryNET/config=1842478563050340
@@ -15,6 +11,11 @@ trojan://slch2024@209.94.90.195:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&se
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#t.me/entryNET/config=1842481141743668
 vless://70465717-66ae-4756-b28a-ec5899e08b17@104.26.6.89:2095?path=%2F%3Fed%3D2095&security=&encryption=none&host=ns.teHRantOlIdI.Ir&type=httpupgrade#t.me/entryNET/config=1842481267283491
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v2.hiddendom.shop#t.me/entryNET/config=1842481331011091
+trojan://telegram-id-privatevpns@63.179.44.169:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842482084060068
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE@43.205.208.0:80#t.me/entryNET/config=1842482714953366
+vmess://eyJhZGQiOiI2Mi42MC4xNTIuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRiZDliZWVjLTQ1MTktNGE3Yy1iNTliLTFlYTkyNTJlM2Y0ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJ0Lm1lXC9lbnRyeU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==/config=1842482840809346
+vless://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=aestingdownloadupload.pages.dev&fp=randomized&type=ws&sni=pages.dev#t.me/entryNET/config=1842483471564099
+trojan://bbcacaa-aacb-abac-bdca-bbacaacbabcc@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1842483783733983
 vless://e5a91065-6515-4b1d-8fb0-55f80975d464@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
 vless://ad22e7bf-91f6-4cd9-9df8-7aba16a5658d@172.66.40.99:8080/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs%3Fed%3D2048&host=K.mangoap.org&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
 vless://654d9fda-cc9e-4594-a845-58658f82c818@www.speedtest.net:2087/?type=ws&path=%2FTelegram_configMs_Telegram_configMs_Telegram_configMs&host=mango1.mangoap.org&security=tls&fp=chrome&alpn=http%2F1.1&sni=mango1.mangoap.org#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
