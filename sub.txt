@@ -1,4 +1,3 @@
-vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#t.me/entryNET/config=1843109028463185
 vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@www.speedtest.net:8443?encryption=none&security=tls&sni=aged-sun-9128.danicng13.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=aged-sun-9128.danicng13.workers.dev&path=%2Fv9lthtdhp1hvnyc0%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#t.me/entryNET/config=1843109094978383
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:443?encryption=none&security=tls&type=ws&path=%2F#t.me/entryNET/config=1843109154202775
 vless://801ebb93-9fbd-45bf-a2ab-9b403b4850d2@104.21.36.62:443?security=tls&sni=pkwdw.whmvmkwuey.store&type=ws&host=pkwdw.whmvmkwuey.store&path=%2F#t.me/entryNET/config=1843110287867352
