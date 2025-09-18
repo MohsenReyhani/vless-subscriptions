@@ -1,11 +1,3 @@
-vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#t.me/entryNET/config=1843547542903381
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#t.me/entryNET/config=1843547606789430
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5d1lEQWdXd0xUMWlZVUxRQzJWazcy@45.95.232.236:4248#t.me/entryNET/config=1843547732608143
-trojan://bpb-trojan@172.67.238.207:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#t.me/entryNET/config=1843548110171340
-trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#t.me/entryNET/config=1843548297595816
-trojan://123456@198.41.208.69:8443/?type=tcp&security=tls&sni=top-azx.pages.dev&allowInsecure=1#t.me/entryNET/config=1843548423649093
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#t.me/entryNET/config=1843548551983051
-trojan://Aimer@154.197.64.196:2087/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org&allowInsecure=1#t.me/entryNET/config=1843548675262938
 vless://7e556f7c-ee48-4474-881e-a35f8900803a@141.227.130.35:45497?security=&type=grpc&serviceName=t.me/entryNET&encryption=none#t.me/entryNET/config=1843549304832070
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206N1lHRWNiR2M3M2NBMkFPZVM1aTlPL1o5bkJ3ZVBSY0RPY3dtejhpRllUTT06Tkk5SUFNVzlhS2hnTUFyZ05SU25ySXFWWmdSN2t6YVJFSkNzTU9QSFhLcz0%3D@paisaoutt.outline360bot.com:80#t.me/entryNET/config=1843549556503315
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@141.193.213.3:8880?encryption=none&security=none&type=ws&host=bitget1.asdasd.click&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2+%2F%3Fed%3D2560#t.me/entryNET/config=1843550128464530
@@ -14,6 +6,15 @@ vless://31d4085a-b367-4e7e-962b-a8343f36834a@151.101.3.8:80?mode=auto&path=%2F-L
 vless://66138dd4-6d20-4d44-8eaa-5583ec4d7bda@5.196.223.72:25978?mode=gun&security=none&encryption=none&type=grpc&serviceName=t.me/entryNETa-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#t.me/entryNET/config=1843552072414531
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2T0RObVpEWmhNalF0TkRGak1pMDBNVFU0TFdGak1UZ3RObVpqWmpCaU9EUXlOelkw@cdn.node2.lilisi.link:20004#t.me/entryNET/config=1843552139455542
 vless://b062ed1b-8927-41e2-a0a6-34a4437i51b6@164.138.202.139:10777?seemrity=none&encrygvption=nonb&heanirType=none&type=tcp#t.me/entryNET/config=1843552701508994
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#t.me/entryNET/config=1843557734915531
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#t.me/entryNET/config=1843558176577864
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#t.me/entryNET/config=1843558237995039
+trojan://vip@104.26.8.156:443/?type=tcp&security=tls&sni=heihu880.pages.dev&allowInsecure=1#t.me/entryNET/config=1843558427570158
+vless://934ad667-dce8-402a-aa45-3c3b52252c0a@172.66.40.99:8880?path=%2F%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN%3Fed%3D2048&security=none&encryption=none&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.elmahstyle.xyz.&type=ws#t.me/entryNET/config=1843558741508516
+vless://26874748-86d4-4c3e-a3c6-2c56618cf801@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#t.me/entryNET/config=1843559686904036
+vless://e28cf77c-be33-4f99-be90-54b90994b4a8@activeservice.mispd.ir:443?security=reality&encryption=none&pbk=NVOzqrT9fAAQzV1t5AQQMgQ-Q4y_Szgyxe14qG3rMS0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=16c0b704e4#t.me/entryNET/config=1843561453286392
+ss://YWVzLTEyOC1nY206ODNmZDZhMjQtNDFjMi00MTU4LWFjMTgtNmZjZjBiODQyNzY0@cdn.node2.lilisi.link:20004#t.me/entryNET/config=1843563462787319
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@167.68.11.251:8880?encryption=none&security=none&type=ws&host=cf.d3z.net&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3#t.me/entryNET/config=1843564342033462
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6pbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7dbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUZSIiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
