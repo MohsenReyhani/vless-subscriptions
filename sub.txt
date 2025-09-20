@@ -1,8 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?security=&encryption=none&type=grpc#t.me/entryNET/config=1843748240864116
-vless://a61a9487-7d9e-4f77-f35a-284acc0c1925@www.speedtest.net:2083?type=ws&path=%2Ffree&host=khtls.armin-website.com&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1&sni=khtls.armin-website.com&ech=AGr%2BDQBmAAAgACBEKPzSWrPpc8k5uWQ3pb044clMa4aGz4X2h%2FWdQaEcRAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABdraHRscy5hcm1pbi13ZWJzaXRlLmNvbQAA#t.me/entryNET/config=1843749247948667
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=&encryption=none&type=grpc#t.me/entryNET/config=1843750379406944
-vmess://eyJhZGQiOiI0Ny4yMzkuMTIuOTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTQ2MDU2ZWMtZjdhOC00Njc4LWJhOWItYTU5NWU4ZDYxZjI0IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjMzMjEwIiwicHMiOiJ0Lm1lXC9lbnRyeU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=/config=1843752139761851
-vless://c417fcd2-b6db-495d-b851-7b4506198d6e@172.66.47.199:443?security=tls&sni=TElegram-Id-Eliv2RAY.pAGeS.DEv&type=ws&host=telegram-id-eliv2ray.pages.dev&fp=randomized&alpn=h2%2Chttp%2F1.1#t.me/entryNET/config=1843752140906346
 vless://09a1a90c-70f5-4a5f-9480-2cc8ccdd0d6b@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1843752205118813
 trojan://acbbaca-abca-baac-dcba-ccabcbbaabca@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1843752332001759
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.95:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048#t.me/entryNET/config=1843753022661560
@@ -13,6 +8,12 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80?sni=www.speedtest
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&type=tcp&host=Doostihaa.coM+%40Persianelon&headerType=http#t.me/entryNET/config=1843757047884147
 trojan://1ef0a265-9cf5-4f28-9786-d21daab9c78e@45.158.22.57:4438?security=tls&sni=us1.vpn.ong&type=tcp#t.me/entryNET/config=1843757803692891
 vless://d7055e37-0e2f-494c-b62c-e753fa77b03a@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#t.me/entryNET/config=1843758685283587
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.174.73:21005?sni=alibabashop.com#t.me/entryNET/config=1843759882315095
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@sss43827.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#t.me/entryNET/config=1843760575023413
+vless://14e55fd0-84ad-42e0-93eb-ebac8c6ce6ca@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#t.me/entryNET/config=1843760636022288
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome&fp=chrome#t.me/entryNET/config=1843761579493322
+vless://a218dce2-cb00-4139-94b8-fccf675d6918@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#t.me/entryNET/config=1843762460071161
+vless://505dd9d5-5193-43eb-a1df-3fb953840aa8@www.speedtest.net:2053?type=ws&path=%2Ffree&host=khtls.armin-host.com&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1&sni=khtls.armin-host.com&ech=AGf%2BDQBjAAAgACD9ZmRASaXd%2FBFhLGrLkl%2BZeT9j7lid6lpskQcOQ8owewAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABRraHRscy5hcm1pbi1ob3N0LmNvbQAA#t.me/entryNET/config=1843763466340963
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRDhFOEE1enh5TG5YakV5aEhYekZU@94.159.96.245:11902#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20HE%2C%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U
 vless://53f8294a-b45e-4dc3-b323-0b74a085bfdc@91.107.249.230:54262?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
