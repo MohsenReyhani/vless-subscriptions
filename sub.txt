@@ -1,5 +1,3 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#t.me/entryNET/config=1843835758483110
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878829611.ahvaz-drc-tusacae.info:8880?security=&encryption=none&type=grpc#t.me/entryNET/config=1843835817750498
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?security=&encryption=none&type=grpc#t.me/entryNET/config=1843835880817892
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZTRlZGZlMC05ZTJlLTQzNWYtOGZhZC00YzJiNDNlMzllYzk%3D@hl.xfy003.cfd:54678#t.me/entryNET/config=1843835943226082
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.81.58.168:443?security=tls&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#t.me/entryNET/config=1843836006600891
@@ -15,6 +13,8 @@ vmess://eyJhZGQiOiIxNDYuNTkuNTUuNTAiLCJhaWQiOiIwIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIs
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#t.me/entryNET/config=1843842109372070
 vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?security=reality&encryption=none&pbk=b_hJSqrd_USUBlX5A9-iJTBd0qndoAH9DW3Ct-HpGxc&headerType=none&fp=chrome&type=tcp&sni=chess.com&sid=4d01fba3#t.me/entryNET/config=1843842801747966
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.49.106:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#t.me/entryNET/config=1843843053363228
+vmess://eyJ2IjoiMiIsInBzIjoidC5tZVwvZW50cnlORVQiLCJhZGQiOiJzMS5naG9zdHJrci5zYnMiLCJwb3J0Ijo4ODgwLCJpZCI6Ijk1OTYxZGViLTE2ZTItNDg1NC1iNTM3LTlhMmQyNWM3ODAzNCIsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidGxzIjoibm9uZSIsInBhdGgiOiJAR2hvc3RyYXlfTkciLCJhdXRob3JpdHkiOiIifQ==/config=1843843680892818
+vless://6dddd941-34f7-4ac5-a1b9-fdffb58e8f7c@151.101.67.8:80?mode=auto&path=%2F&security=none&encryption=none&host=yoozcard.top&type=xhttp#t.me/entryNET/config=1843843934111468
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRDhFOEE1enh5TG5YakV5aEhYekZU@94.159.96.245:11902#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20HE%2C%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NVFnYjlwVEh4dU5nWVdkMjdIWnZx@154.53.180.105:8443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
