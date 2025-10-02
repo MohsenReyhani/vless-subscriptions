@@ -1,8 +1,3 @@
-trojan://NISHIKUITAN222@104.18.253.136:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844826037171373
-ss://60882caa-4e74-42a2-be70-220755fc1551@104.18.155.119:443?encryption=none&security=tls&sni=rayan-karma.parvaneh.dpdns.org&type=ws&host=rayan-karma.parvaneh.dpdns.org&path=%2F%3Fed%3D2560fp%3Dchrome#t.me/entryNET/config=1844827540819218
-ss://7cb258e2-2905-4f7f-94f5-b5b4125eece4@172.66.40.99:80?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=&encryption=none=--@ghalagyann2--@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagy#t.me/entryNET/config=1844827602632881
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@104.237.138.80:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#t.me/entryNET/config=1844828421132469
-trojan://NISHIKUITAN222@104.20.217.33:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844829113181152
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.191:8090#t.me/entryNET/config=1844829364497634
 vless://5342a980-50a4-4daa-9c45-e83f2ebab024@141.227.174.221:18409?security=&encryption=none&type=grpc&serviceName=t.me/entryNETDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#t.me/entryNET/config=1844832324674053
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#t.me/entryNET/config=1844832510197298
@@ -16,6 +11,11 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?security
 trojan://NISHIKUITAN222@188.114.99.239:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844836662972129
 trojan://NISHIKUITAN222@190.93.244.229:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844836851670776
 trojan://NISHIKUITAN222@104.24.149.225:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844836913550627
+vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ0Lm1lXC9lbnRyeU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==/config=1844839117094689
+trojan://NISHIKUITAN222@104.18.144.129:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844839305991984
+trojan://NISHIKUITAN222@104.25.215.64:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844840438023663
+trojan://NISHIKUITAN222@104.16.64.11:443?allowInsecure=1&ws=1&wspath=%2F#t.me/entryNET/config=1844840627097439
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.80.152.187:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#t.me/entryNET/config=1844840688830893
 vless://ab555b4f-a207-45b9-b801-0337691d08b0@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=gTzHMDNdl149mB6DKGPnbiVFID8x_7X5THJIXlpNWFc&sid=50d72d59cbec63&spx=/#MdVpnSec
 vless://ab555b4f-a207-45b9-b801-0337691d08b0@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec---…
 vless://c10c27c3-e6f4-446e-9191-911aae5846b6@62.60.231.215:8880?encryption=none&type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=gTzHMDNdl149mB6DKGPnbiVFID8x_7X5THJIXlpNWFc&sid=50d72d59cbec63&spx=/#MdVpnSec
