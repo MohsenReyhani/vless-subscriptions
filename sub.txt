@@ -98,6 +98,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#v2ra
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&type=tcpe-500gb.%20%40freenettir&encryption=none#v2ray_dalghak
 vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&type=tcp#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#v2ray_dalghak
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003#t.me/entryNET/config=1857254809747273
 vless://17183b73-3687-4f67-90f1-6ab59cd99b34@142.54.178.210:443/?type=ws&encryption=none&path=%2FTelegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs%3Fed%3D2048&host=Ka.SibgiLas12.iR&security=tls&fp=chrome&alpn=&sni=Ka.SibgiLas12.iR#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
 vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80/?type=xhttp&encryption=none&path=%2FTelegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs&host=hazarabrowse.bh&mode=auto&security=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20%7C%20%40configMs
 vless://5d06f973-f9c2-4d1a-8914-38e4971ddc4b@140.248.128.0:80/?type=xhttp&encryption=none&path=%2FTelegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram--configMs--Telegram…
