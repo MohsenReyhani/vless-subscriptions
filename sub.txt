@@ -9,7 +9,6 @@ vless://983da2df-bc52-4226-84c1-bbfef0704427@dqf21.sdssd1.sadqwdw1.carvan1.mimki
 vless://4cbd1d70-1341-4e23-b2d5-64254318c783@193.151.158.24:55004?path=%2F&security=none&encryption=none&host=rubika.ir&type=ws#v2ray_dalghak
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.207.163:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#v2ray_dalghak
 trojan://telegram-id-directvpn@3.73.207.163:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#v2ray_dalghak
-trojan://telegram-id-privatevpns@3.73.207.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#v2ray_dalghak
 vless://c54d83b6-49fa-40d1-930a-bfc9f71c3001@grandmas-hotel.wp-toolbox.ir:2305?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#v2ray_dalghak
 vless://510e2c1c-5178-4c1b-9181-ec35aa09928e@193.151.158.24:55006?path=%2F&security=none&encryption=none&host=rubika.ir&type=ws#v2ray_dalghak
 trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure#v2ray_dalghak
@@ -96,6 +95,7 @@ trojan://telegram-id-privatevpns@35.181.46.125:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@35.181.46.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#v2ray_dalghak
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.46.125:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#v2ray_dalghak
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?path=%2F%40saeedtelcom%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=unitedkingdom.iranfastspeed.net&fp=firefox&type=httpupgrade&sni=unitedkingdom.iranfastspeed.net#v2ray_dalghak
+trojan://telegram-id-privatevpns@3.73.207.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#v2ray_dalghak
 vless://812d0507-c8bc-ffe5-ec36-0b6917d92108@cloud.vpsino.com:63822?security=none&encryption=none&headerType=none&type=tcp#v2ray_dalghak
 vless://97b35c84-5174-ab39-3ec8-8e5288d1316c@cloud.vpsino.com:48324?security=none&type=tcp&headerType=none&path=%2F#v2ray_dalghak
 vless://f47de597-c323-45a6-c92d-dd3b6c6f8b41@germany.digionline2.com:1003?security=none&encryption=none&headerType=http&type=tcp#%D8%AC%D9%88%DB%8C%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%88%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%20%E2%99%A5%EF%B8%8F%0A%40V2rayNG_Cafe
