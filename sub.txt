@@ -100,11 +100,11 @@ vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=%2F&security=non
 vless://73ee5d1d-e2aa-409c-bace-757a7b774d76@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#v2ray_dalghak
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoi8J+UkCBAQWJsTmV0NyDwn4ypINiq2LH…
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiIPCflJAgQEFibE5ldDcg8J+MqSDZhtiqINmF2YTbjOKaoe+4jyAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://27a38c86-47dd-498f-a43d-801b4fe0724c@snapp.ir:2082?path=%2F&security=none&encryption=none&host=nikan.duravex.ir&type=ws#%40V2rayNG_Cafe
 vless://27591df4-2a8e-4b4d-bb61-ad663332458a@Tapsi.ir:8080?path=%2Fcdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#%40V2rayNG_Cafe
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dzRNaDI4UnIwM3pjUnQrK0JmcEFkTXZ4NXVsRnozNDQ0WXZCdHRlQjF0bz06aENMQ0JGekJXV1VTbEdRZ0duWURyRGUrWEZRb1M4TlFqa0ZyaVhKM2p4Zz0%3D@coinex.xvoidx.com:2052#%40V2rayNG_Cafe
 vless://96e5b04f-4592-437e-9aba-0060e69a9c2c@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG_Cafe
 vless://e9aa4a15-33f7-449a-87ae-31026abc4d41@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG_Cafe
+vless://aaccf24f-c619-4c2d-8950-f46a3a14e762@nextjs.org:443?mode=auto&path=%2Fapi&security=tls&alpn=h2&encryption=none&host=relay-03sygudf.vercel.app&fp=chrome&type=xhttp&sni=nextjs.org%40VIPV2rayNGNP#%40V2rayNG_Cafe
 vless://3d243df5-9cda-4aac-89d5-354de77d79e2@212.224.86.104:2053?alpn=http%2F1.1%2Ch2&encryption=none&security=tls&serviceName=grpc&sni=nice.ducks.tel&type=grpc#%F0%9F%8D%9131@oneclickvpnkeys
 vless://787b3724-16c8-4e58-a038-2b8013cdc6d9@172.64.155.209:80?encryption=none&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&path=%2FeyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=none&type=ws#%F0%9F%8D%9132@oneclickvpnkeys
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%8D%9133@oneclickvpnkeys
