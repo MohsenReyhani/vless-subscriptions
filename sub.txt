@@ -98,11 +98,9 @@ vless://9ffd5a44-075b-4d19-b52b-9ea68c7554e0@Snapp.ir:8080?type=ws&encryption=no
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.66:443?encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
 vless://5cd8ad8a-5aa9-4d3d-81a2-4816ca667441@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=s.22c.ir&path=/h#v2ray_dalghak
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#v2ray_dalghak
-vless://36a7ca5f-a870-48fa-b819-d5c67bf76413@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG_Cafe
-vless://0c480022-24b5-4a3f-bf5f-bb9f6c53c548@185.143.233.5:2083?path=%2F&security=tls&encryption=none&host=p1.sesrsa.com&fp=firefox&type=ws&sni=sub.sesrsa.com#%40V2rayNG_Cafe
-vless://669a7419-a432-4b9b-b913-94ebcde24884@varzesh3.com:80?path=%2F&security=none&encryption=none&host=proto.helexm.ir&type=ws#%40V2rayNG_Cafe
-vless://9ea9e54b-d4da-4773-855a-e5371e4da946@snapp.ir:80?path=%2F&security=none&encryption=none&host=hubfile.zpax.ir&type=ws#%40V2rayNG_Cafe
 vless://96028343-0150-4b2a-8fda-e4bfb9e4ac13@zir.alihapps3.aghanami.ir:80?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG_Cafe
+vless://e8fd3903-58e3-4305-86bf-3cfae76f45c0@185.143.233.177:8880?path=%2Fassets&security=none&encryption=none&host=hpavash1.digikalajets.ir&type=httpupgrade#%40V2rayNG_Cafe
+vless://b8aead42-eaf7-4d2e-90a4-b97135bbde26@5.145.114.132:41794?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG_Cafe
 vless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=mute-violet-c674.poviy66273.workers.dev&path=%2F&security=none&type=ws#%E2%9B%B0%EF%B8%8F16@oneclickvpnkeys
 vless://623d675e-8748-4881-ac0f-dc1a10b595b1@104.18.4.46:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&path=%2F&security=none&type=ws#%F0%9F%AB%8E1@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%F0%9F%8D%AC7@oneclickvpnkeys
