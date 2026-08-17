@@ -1,13 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.40:443?security=tls&sni=hkm.ylks.link&type=ws&path=%2F#v2ray_dalghak1
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.219.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#v2ray_dalghak1
-vless://11b26931-7266-4fcb-895f-006031246faf@185.146.173.237:2053?security=tls&sni=FREE1-DE.MON9TER.eu&type=grpc&serviceName=%40VALAROS#v2ray_dalghak1
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.6.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#v2ray_dalghak1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.0:2095?security=none&sni=E3K2XC8OlBVR1GHWC3FVWRPU43SDrUtWjU1MnDq2rT9iCV7vGY7Rro3C8TJ6EM8.NEitHeruSEr.workErS.DEv&type=ws#v2ray_dalghak1
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.74.100.138:443?security=tls&sni=sebbb.azurewebsites.net&type=ws&host=sebbb.azurewebsites.net&path=/&fp=chrome#v2ray_dalghak1
-vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?security=none&encryption=none&headerType=none&type=tcp#v2ray_dalghak1
-vmess://eyJhZGQiOiJ2aXJ1c2thZGUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzRhZjM0Y2MtNjIzMy00ZGU3LTllMTMtYjQxMDkwNTU0ZjhlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMTI5MiIsInBzIjoidjJyYXlfZGFsZ2hhazEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6InYycmF5X2RhbGdoYWsxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#v2ray_dalghak1
 vmess://eyJhZGQiOiJmaW4xLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjODk2NDA2Yi1jY2M0LTRjMzctOGI4Yy0xNTk2NGYzMmE5YTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2OTYyIiwicHMiOiJ2MnJheV9kYWxnaGFrMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F#v2ray_dalghak1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&security=none&type=tcp#v2ray_dalghak1
@@ -150,3 +140,13 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality
 vless://7a04d5bd-a786-4868-b8af-3b21e85f93ba@sa-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=us.demonware.net&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#v2ray_dalghak1
 ss://chacha20-ietf-poly1305:r0_pds2En38zW5zzVy1DZTdEfSmRNNdx@216.57.105.16:50#v2ray_dalghak1
 vless://7a04d5bd-a786-4868-b8af-3b21e85f93ba@crm.mobileemdad.top:3131?encryption=none&security=reality&type=xhttp&headerType=none&path=%2F&mode=auto&sni=us.demonware.net&fp=edge&pbk=_TLSfMNLBxrgGXOP5fiTcnSxPtjIUTrDwq4VgWTlZDM&sid=4e87d1d416#v2ray_dalghak1
+vless://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.9:443?encryption=none&flow=xtls-rprx-vision&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&security=reality&sid=0bc73dd1f045&sni=qwins-mirrorconv.ru&type=tcp#v2ray_dalghak1
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?encryption=none&security=tls&sni=german.sarzamiiinahang.ir&fp=chrome&allowinsecure=0&type=xhttp&mode=auto&path=/Meh?di=443#v2ray_dalghak1
+trojan://PQ05174892@inspired-hound.rooster465.autos:443?allowInsecure=1#v2ray_dalghak1
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-ht.dbsll.ir:8080?path=%2F&security=none&encryption=none&host=xn-deplay.google.com.dbsll.ir&type=httpupgrade#v2ray_dalghak1
+trojan://PQ05174892@13.212.174.21:443?allowInsecure=0&sni=fleet-pony.rooster465.autos#v2ray_dalghak1
+vless://fa98f221-29e1-4a7e-8797-3bf294aeda35@144.31.242.164:443?type=grpc&security=reality&fp=firefox&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A#v2ray_dalghak1
+trojan://PQ05174892@54.169.228.116:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#v2ray_dalghak1
+trojan://AE62539071@funny-hen.rooster465.autos:443?security=tls&path=%2f#v2ray_dalghak1
+vless://e68d8c26-552c-4cbf-b20e-7a76fa2aa266@75.119.151.16:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=de.samanehha.io&mode=stream-one&security=none#v2ray_dalghak1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCWnBnZWdCUFFaSlIyN0pOdkxrWmRR@Library.amozesh-kade.ir:4099#v2ray_dalghak1
