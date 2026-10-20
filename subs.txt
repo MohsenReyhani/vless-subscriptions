@@ -1,6 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.86.163:22222?encryption=none&security=none&type=tcp#v2ray_dalghak1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.86.163:22223?encryption=none&security=none&type=tcp#v2ray_dalghak1
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.86.163:22224?encryption=none&security=none&type=tcp#v2ray_dalghak1
 vless://51e673c9-6e15-4268-802a-439fb27a542a@104.17.148.22:80?path=%2FMosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&type=ws#v2ray_dalghak1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.128.86:22222?encryption=none&security=none&type=tcp#v2ray_dalghak1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.128.86:22224?encryption=none&security=none&type=tcp#v2ray_dalghak1
